@@ -13,6 +13,7 @@ class MainWindow(QtGui.QMainWindow):
         self.resize(250, 150)
         self.setWindowTitle('statusbar')
 
+        # 为状态栏添加文本信息
         self.statusBar().showMessage('Ready')
 
 
