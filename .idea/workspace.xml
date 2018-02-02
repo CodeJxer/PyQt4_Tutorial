@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d105190c-9bbf-44f0-9700-e4c2296000e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter4/example4_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter5/example5_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter5/example5_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter5/example5_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter5/example5_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter6/example6_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter6/example6_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter6/example6_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter6/example6_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter6/example6_5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter7/example7_1.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter4/example4_3.py" afterPath="$PROJECT_DIR$/chapter4/example4_3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter6/example6_3.py" afterPath="$PROJECT_DIR$/chapter6/example6_3.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,59 +17,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="example5_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter5/example5_1.py">
+      <file leaf-file-name="example6_4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter6/example6_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="92">
+              <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
               <folding>
-                <element signature="e#217#227#0" expanded="true" />
+                <element signature="e#157#167#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example5_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter5/example5_2.py">
+      <file leaf-file-name="example6_3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter6/example6_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example5_3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter5/example5_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="851">
+              <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
               <folding>
-                <element signature="e#56#66#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example5_4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter5/example5_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding>
-                <element signature="e#64#74#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example6_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter6/example6_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#224#234#0" expanded="true" />
+                <element signature="e#174#184#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,8 +44,8 @@
       <file leaf-file-name="example6_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter6/example6_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="69">
+              <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
               <folding>
                 <element signature="e#139#149#0" expanded="true" />
               </folding>
@@ -92,11 +53,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example6_3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter6/example6_3.py">
+      <file leaf-file-name="example6_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter6/example6_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="69">
+              <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <folding>
+                <element signature="e#224#234#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example6_5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter6/example6_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <element signature="e#75#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example7_1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter7/example7_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -148,10 +133,13 @@
         <option value="$PROJECT_DIR$/chapter6/example6_1.py" />
         <option value="$PROJECT_DIR$/chapter6/example6_2.py" />
         <option value="$PROJECT_DIR$/chapter6/example6_3.py" />
+        <option value="$PROJECT_DIR$/chapter6/example6_4.py" />
+        <option value="$PROJECT_DIR$/chapter6/example6_5.py" />
+        <option value="$PROJECT_DIR$/chapter7/example7_1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -201,7 +189,7 @@
             <path>
               <item name="learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,58 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example6_2">
-    <configuration name="example5_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/example5_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="example5_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/example5_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="example5_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/example5_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.example6_5">
     <configuration name="example6_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,20 +249,71 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="example6_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learn" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter6/example6_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="example6_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learn" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter6/example6_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="example6_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learn" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter6/example6_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.example5_2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.example5_3" />
-      <item index="2" class="java.lang.String" itemvalue="Python.example5_4" />
-      <item index="3" class="java.lang.String" itemvalue="Python.example6_1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.example6_2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.example6_1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.example6_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.example6_3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.example6_4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.example6_5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.example6_2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.example6_1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.example5_4" />
-        <item index="3" class="java.lang.String" itemvalue="Python.example5_3" />
-        <item index="4" class="java.lang.String" itemvalue="Python.example5_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.example6_5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.example6_4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.example6_3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.example6_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.example6_1" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +331,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="1" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20558003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -626,30 +614,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6/example6_1.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/957621678/PyQt4/QtCore/QBasicTimer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#224#234#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6/example6_2.py">
+    <entry file="file://$PROJECT_DIR$/chapter6/example6_4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
           <folding>
-            <element signature="e#139#149#0" expanded="true" />
+            <element signature="e#157#167#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter6/example6_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="851">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="e#174#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/example6_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding>
+            <element signature="e#139#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/example6_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding>
+            <element signature="e#224#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/example6_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#75#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7/example7_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
